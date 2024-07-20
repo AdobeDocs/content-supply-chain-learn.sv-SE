@@ -9,13 +9,13 @@ role: Admin, User, Leader, Developer
 level: Beginner
 last-substantial-update: 2024-03-06T00:00:00Z
 jira: KT-14155
-source-git-commit: f3082975a674a13152aa92c06302e67e9f4715b6
+exl-id: cf124c6b-b6d9-4338-8c4d-dae6722f97d4
+source-git-commit: 32c8aba7f65e8eb72f52c532a623df52d1473ffd
 workflow-type: tm+mt
 source-wordcount: '1891'
 ht-degree: 0%
 
 ---
-
 
 # Självstudiekurser för att skapa och producera innehåll
 
@@ -29,7 +29,7 @@ De Adobe-lösningar som används för att skapa innehåll:
 
 >[!TIP]
 >
->Vårt team av produktexperter på Adobe har sammanställt en samling självstudiekurser för integrering av viktiga användningsexempel i innehållsleveranskedjan. Om du använder mer än en lösning, lär dig det bästa sättet att integrera dem!  Kolla in [Självstudiekurser för integrering av innehållsleverantörer](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/content-supply-chain.html?lang=en).
+>Vårt team av produktexperter på Adobe har sammanställt en samling självstudiekurser för integrering av viktiga användningsexempel i innehållsleveranskedjan. Om du använder mer än en lösning, lär dig det bästa sättet att integrera dem!  Ta en titt på [integreringsjälvstudiekurserna för innehållsleveranskedjan](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/content-supply-chain.html?lang=en).
 
 ## Självstudiekurser
 
@@ -200,7 +200,7 @@ De Adobe-lösningar som används för att skapa innehåll:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-backgrounds.html" title="Skapa bakgrunder för presentationer">Skapa bakgrunder för presentationer</a>
+            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-backgrounds.html" title="Skapa bakgrunder för presentationer">Skapar bakgrunder för presentationer</a>
           </p>
           <p class="is-size-6">Lär dig skapa engagerande bakgrunder för PowerPoint-presentationer. Med text-till-bild från Adobe Firefly kan du skapa en personlig bild för presentationen och sedan göra ytterligare ändringar i bilden, lägga på effekter och ladda ned den för användning i presentationen.</p>
         </div>
@@ -222,7 +222,7 @@ De Adobe-lösningar som används för att skapa innehåll:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/update-image.html" title="Uppdatera ekonomiflöde">Uppdatera ekonomiflöde</a>
+            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/update-image.html" title="Uppdatera ekonomiflöde">Uppdatera ekonomiväg</a>
           </p>
           <p class="is-size-6">Uppdatera snabbt en statisk grafik genom att ersätta element med generativ fyllning, ändra text genom att matcha teckensnitt och färg samt ta bort bakgrunden i nya bilder. Det här är ett snabbt och enkelt sätt att återanvända grafiska resurser som finansiella avslut.</p>
         </div>
@@ -288,7 +288,7 @@ De Adobe-lösningar som används för att skapa innehåll:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/generative-fill.html" title="Så här använder du generativ fyllning">Så här använder du generativ fyllning</a>
+            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/generative-fill.html" title="Så här använder du generativ fyllning">Använda generativ fyllning</a>
           </p>
           <p class="is-size-6">Lär dig hur du använder Generative Fill från Adobe Firefly för att lägga till och ta bort element från en bild.</p>
         </div>
@@ -356,7 +356,7 @@ De Adobe-lösningar som används för att skapa innehåll:
           <p class="headline is-size-6 has-text-weight-bold">
             <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/overview.html" title="Översikt över konsolen/redigeraren för innehållsfragment">Översikt över konsolen/redigeraren för innehållsfragment</a>
           </p>
-          <p class="is-size-6">En samling videor som hjälper dig att förstå och använda AEM Content Fragment-konsolen och -redigeraren.</p>
+          <p class="is-size-6">En samling videor som hjälper dig att förstå och använda AEM Content Fragment-konsol och -redigerare.</p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
           <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Läs mer</span>
@@ -376,7 +376,7 @@ De Adobe-lösningar som används för att skapa innehåll:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/stylize-this-PDF.html" title="Stilisera PDF">Stilisera PDF</a>
+            <a href="https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/stylize-this-PDF.html" title="Stilisera PDF">Stilisera den här PDF</a>
           </p>
           <p class="is-size-6">Lär dig hur du skapar proffsiga PDF med de inbyggda lättanvända designverktygen i Adobe Express.&amp;†</p>
         </div>
@@ -398,7 +398,7 @@ De Adobe-lösningar som används för att skapa innehåll:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/enable-creative-efficiency.html" title="Effektivare kreativitet">Effektivare kreativitet</a>
+            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/enable-creative-efficiency.html" title="Effektivare kreativitet">Aktivera kreativ effektivitet</a>
           </p>
           <p class="is-size-6">Lär dig hur du snabbar upp framtagningen av innehåll med hjälp av de generativa AI-baserade verktygen i Adobe Photoshop och Illustrator.</p>
         </div>
@@ -420,7 +420,7 @@ De Adobe-lösningar som används för att skapa innehåll:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-express-aem-assets-add-on.html" title="Integrering av Adobe Expresser">Integrering av Adobe Expresser</a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-express-aem-assets-add-on.html" title="Integrering av Adobe Expresser">Integrering av Adobe Express</a>
           </p>
           <p class="is-size-6">Lär er hur ni optimerar innehållsleveranskedjorna med AEM Assets och Adobe Express, vilket förbättrar produktiviteten och tillgängligheten för alla teammedlemmar.</p>
         </div>
@@ -442,7 +442,7 @@ De Adobe-lösningar som används för att skapa innehåll:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/compelling-merchandise.html" title="Skapa övertygande material för varuexponering">Skapa övertygande material för varuexponering</a>
+            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/compelling-merchandise.html" title="Skapa övertygande material för varuexponering">Skapa övertygande marknadsföringsmaterial</a>
           </p>
           <p class="is-size-6">Läs om hur ett e-handelsteam enkelt kan skapa övertygande bilder för en ny uppsättning lager i sin onlinebutik.</p>
         </div>
@@ -464,7 +464,7 @@ De Adobe-lösningar som används för att skapa innehåll:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/localized-marketing-content.html" title="Möjliggör för geografiskt utspridda team att lokalisera innehåll">Möjliggör för geografiskt utspridda team att lokalisera innehåll</a>
+            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/localized-marketing-content.html" title="Möjliggör för geografiskt utspridda team att lokalisera innehåll">Låt utspridda team lokalisera innehåll</a>
           </p>
           <p class="is-size-6">Läs om hur geografiskt utspridda marknadsföringsteam enkelt kan anpassa innehåll till sin region för lokala marknadsföringskampanjer.</p>
         </div>
@@ -486,7 +486,7 @@ De Adobe-lösningar som används för att skapa innehåll:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/jumpstart-ideation.html" title="Kom snabbt igång med kreativa idéer">Kom snabbt igång med kreativa idéer</a>
+            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/jumpstart-ideation.html" title="Kom snabbt igång med kreativa idéer">Kom igång snabbt med kreativa idéer</a>
           </p>
           <p class="is-size-6">Lär dig hur du snabbt kommer igång med att utveckla kreativt innehåll för en marknadsföringskampanj.</p>
         </div>
@@ -508,7 +508,7 @@ De Adobe-lösningar som används för att skapa innehåll:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/create-local-marketing.html" title="Skapa flygblad för marknadsföringskampanjer med Firefly">Skapa flygblad för marknadsföringskampanjer med Firefly</a>
+            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/create-local-marketing.html" title="Skapa flygblad för marknadsföringskampanjer med Firefly">Skapa flygblad för marknadsföringskampanj med Firefly</a>
           </p>
           <p class="is-size-6">Lär dig hur du använder Text to Image från Adobe Firefly i Adobe Express för att skapa lokaliserat innehåll från en global marknadsföringskampanj på hotell.&amp;†</p>
         </div>
@@ -530,7 +530,7 @@ De Adobe-lösningar som används för att skapa innehåll:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/create-on-boarding.html" title="Skapa rekryterings- och introduktionsinnehåll med Firefly">Skapa rekryterings- och introduktionsinnehåll med Firefly</a>
+            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/create-on-boarding.html" title="Skapa rekryterings- och introduktionsinnehåll med Firefly">Skapa innehåll för rekrytering och introduktion med Firefly</a>
           </p>
           <p class="is-size-6">Lär dig hur du använder Text to Image från Adobe Firefly i Adobe Express för att skapa unik grafik för rekrytering av medarbetare och startmaterial. I det här exemplet används mallar så att alla i företaget skapar innehåll som är exakt varumärkesanpassat.</p>
         </div>
@@ -552,7 +552,7 @@ De Adobe-lösningar som används för att skapa innehåll:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/create-blog-graphics.html" title="Kör enkelt sociala kampanjer">Kör enkelt sociala kampanjer</a>
+            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/create-blog-graphics.html" title="Kör enkelt sociala kampanjer">Kör sociala kampanjer enkelt</a>
           </p>
           <p class="is-size-6">Lär dig hur du använder Text to Image från Adobe Firefly för att skapa unikt grafiskt innehåll för webbkampanjer, bloggkampanjer och sociala kampanjer.</p>
         </div>
@@ -618,7 +618,7 @@ De Adobe-lösningar som används för att skapa innehåll:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/create-webinar-poster.html" title="Skapa webbinarier med Firefly">Skapa webbinarier med Firefly</a>
+            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/create-webinar-poster.html" title="Skapa webbinarier med Firefly">Skapa webbinarium med Firefly</a>
           </p>
           <p class="is-size-6">Lär dig hur du använder Text till bild och Texteffekter, som drivs av Adobe Firefly, i Adobe Express för att skapa en affisch för sociala medier för en virtuell VR-händelse.</p>
         </div>
@@ -662,7 +662,7 @@ De Adobe-lösningar som används för att skapa innehåll:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-fill.html" title="Generativ ifyllning i Photoshop">Generativ ifyllning i Photoshop</a>
+            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-fill.html" title="Generativ ifyllning i Photoshop">Generativ fyllning i Photoshop</a>
           </p>
           <p class="is-size-6">Lär dig hur du använder Generative Fill från Adobe Firefly i Adobe Photoshop för att göra det enklare att skapa ett koncept för en reseannons.&amp;†</p>
         </div>
@@ -684,7 +684,7 @@ De Adobe-lösningar som används för att skapa innehåll:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/create-social-posters.html" title="Skapa affischer för sociala medier med Firefly">Skapa affischer för sociala medier med Firefly</a>
+            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/create-social-posters.html" title="Skapa affischer för sociala medier med Firefly">Skapa sociala affischer med Firefly</a>
           </p>
           <p class="is-size-6">Lär dig hur du använder Text to Image och Text Effects från Adobe Firefly i Adobe Express för att skapa en marknadsföringskampanj för sociala medier.</p>
         </div>
@@ -698,15 +698,15 @@ De Adobe-lösningar som används för att skapa innehåll:
     <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
       <div class="card-image">
         <figure class="image x-is-16by9">
-          <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/cc-libraries.html" title="Använda CC Libraries" tabindex="-1">
-            <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420227?format=jpeg" alt="Använda CC Libraries">
+          <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/cc-libraries.html" title="Använd CC Libraries" tabindex="-1">
+            <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420227?format=jpeg" alt="Använd CC Libraries">
           </a>
         </figure>
       </div>
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/cc-libraries.html" title="Använda CC Libraries">Använda CC Libraries</a>
+            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/cc-libraries.html" title="Använd CC Libraries">Använd CC Libraries</a>
           </p>
           <p class="is-size-6">Lär dig hur du delar CC Library-resurser med ditt team.</p>
         </div>
@@ -750,9 +750,9 @@ De Adobe-lösningar som används för att skapa innehåll:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/adobe-asset-link/setup.html" title="Inställning av Adobe Asset Link">Inställning av Adobe Asset Link</a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/adobe-asset-link/setup.html" title="Inställning av Adobe Asset Link">Inställning av Adobe-resurslänk</a>
           </p>
-          <p class="is-size-6">Lär dig hur du konfigurerar Adobe Asset Link för AEM as a Cloud Service, konfigurerar användarberättiganden och AEM as a Cloud Service samt hur du installerar och använder Adobe Asset Link.</p>
+          <p class="is-size-6">Lär dig hur du konfigurerar Adobe Asset Link för AEM as a Cloud Service, konfigurerar användarrättigheter och AEM as a Cloud Service samt hur du installerar och använder Adobe Asset Link.</p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/adobe-asset-link/setup.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
           <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Läs mer</span>
@@ -838,7 +838,7 @@ De Adobe-lösningar som används för att skapa innehåll:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/aem-desktop-app.html" title="AEM Desktop App 2.0">AEM Desktop App 2.0</a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/aem-desktop-app.html" title="AEM Desktop App 2.0">AEM skrivbordsapp 2.0</a>
           </p>
           <p class="is-size-6">Använd AEM datorprogram för att förenkla åtkomsten till alla resurser som hanteras i AEM på datorn, för alla program och filformat.</p>
         </div>
@@ -852,5 +852,5 @@ De Adobe-lösningar som används för att skapa innehåll:
 
 ## Ytterligare resurser
 
-* [Experience League Events](https://experienceleague.adobe.com/events/)
-* [Adobe i innehållsförsörjningskedjan](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)
+* [Experience League-händelser](https://experienceleague.adobe.com/events/)
+* [Adobe i innehållsleveranskedjan](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)

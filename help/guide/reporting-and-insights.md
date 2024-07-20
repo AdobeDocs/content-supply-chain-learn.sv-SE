@@ -9,13 +9,13 @@ level: Beginner
 last-substantial-update: 2024-03-06T00:00:00Z
 jira: KT-15077
 hidefromtoc: true
-source-git-commit: fecc107042220664ce5b76584f834a025844ef4b
+exl-id: 143fe064-bb49-4f66-936a-813edbf0b95a
+source-git-commit: 32c8aba7f65e8eb72f52c532a623df52d1473ffd
 workflow-type: tm+mt
 source-wordcount: '441'
 ht-degree: 0%
 
 ---
-
 
 # Självstudiekurser om rapportering och insikter
 
@@ -38,7 +38,7 @@ De Adobe-lösningar som används för planering och arbetsflöde:
 
 >[!TIP]
 >
->Vårt team av produktexperter på Adobe har sammanställt en samling självstudiekurser för integrering av viktiga användningsexempel i innehållsleveranskedjan. Om du använder mer än en lösning, lär dig det bästa sättet att integrera dem!  Kolla in [Självstudiekurser för integrering av innehållsleverantörer](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/content-supply-chain.html?lang=en).
+>Vårt team av produktexperter på Adobe har sammanställt en samling självstudiekurser för integrering av viktiga användningsexempel i innehållsleveranskedjan. Om du använder mer än en lösning, lär dig det bästa sättet att integrera dem!  Ta en titt på [integreringsjälvstudiekurserna för innehållsleveranskedjan](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/content-supply-chain.html?lang=en).
 
 ## Rekommenderade kurser
 
@@ -61,7 +61,7 @@ De Adobe-lösningar som används för planering och arbetsflöde:
         </a>
         <div>
           <a href="https://experienceleague.adobe.com/docs/courses/using/experiencemanager-a-1-2020-1-assets.html" target="_blank">
-        <strong>Konfigurera AEM Assets för administratörer</strong></a>
+        <strong> Konfigurera AEM Assets för administratörer </strong></a>
         <p class="is-size-7 recs-limit-description">Lär dig skapa en stabil grund för implementeringen av AEM Assets genom att konfigurera kärnproblemen, från att skapa en grundläggande innehållsarkitektur och taxonomi till att anpassa metadata och materialbearbetning.</p>
         </div>
         <p><a href="https://experienceleague.adobe.com/docs/courses/using/experiencemanager-a-1-2020-1-assets.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Läs mer</span></a></p>
@@ -104,12 +104,12 @@ De Adobe-lösningar som används för planering och arbetsflöde:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/wf-adobe-cc.html" title="Använd Adobe Workfront plugins för att integrera med Creative Cloud">Använd Adobe Workfront plugins för att integrera med Creative Cloud</a>
+              <a href="https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/wf-adobe-cc.html" title="Använd Adobe Workfront plugins för att integrera med Creative Cloud">Använd Adobe Workfront-plugin-program för integrering med Creative Cloud</a>
           </p>
           <p class="is-size-6"><em>Integrera Workfront med Creative Cloud för att hitta och uppdatera det material du tilldelats utan att behöva lämna Adobe Creative Cloud.</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/wf-adobe-cc.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Se videon</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Se videon </span>
       </a>
     </div>
   </div>
@@ -130,7 +130,7 @@ De Adobe-lösningar som används för planering och arbetsflöde:
           <p class="is-size-6"><em>Lär dig hur du konfigurerar integreringen mellan Adobe Workfront och Assets Essentials</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Se videon</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Se videon </span>
       </a>
     </div>
   </div>
@@ -146,12 +146,12 @@ De Adobe-lösningar som används för planering och arbetsflöde:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/basics.html" title="Grundläggande om Workfront förbättrade anslutningsmöjligheter">Grundläggande om Workfront förbättrade anslutningsmöjligheter</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/basics.html" title="Grundläggande om Workfront förbättrade anslutningsmöjligheter">Grundläggande om Workfront förbättrade anslutningar</a>
           </p>
           <p class="is-size-6"><em>Lär dig grunderna i Adobe Workfront och Experience Manager Assets förbättrade anslutningsprogram.</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/basics.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Se videon</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Se videon </span>
       </a>
     </div>
   </div>
@@ -167,12 +167,12 @@ De Adobe-lösningar som används för planering och arbetsflöde:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/aem-experts-series/overview.html" title="Integrera Workfront och AEM Assets med den förbättrade kontakten">Integrera Workfront och AEM Assets med den förbättrade kontakten</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/aem-experts-series/overview.html" title="Integrera Workfront och AEM Assets med den förbättrade kontakten">Integrera Workfront och AEM Assets med den förbättrade anslutningen</a>
           </p>
           <p class="is-size-6"><em>Fyra delars videoserie om integrering av Workfront och AEM Assets med den förbättrade anslutningen.</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/aem-experts-series/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Se videon</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Se videon </span>
       </a>
     </div>
   </div>
@@ -254,5 +254,5 @@ De Adobe-lösningar som används för planering och arbetsflöde:
 
 ## Ytterligare resurser
 
-* [Experience League Events](https://experienceleague.adobe.com/events/)
-* [Adobe i innehållsförsörjningskedjan](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)
+* [Experience League-händelser](https://experienceleague.adobe.com/events/)
+* [Adobe i innehållsleveranskedjan](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)

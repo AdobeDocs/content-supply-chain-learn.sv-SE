@@ -9,13 +9,13 @@ role: Admin, User, Leader, Developer
 level: Beginner
 last-substantial-update: 2024-03-06T00:00:00Z
 jira: KT-15076
-source-git-commit: 588f3d016786a02658c3131945e5a23a47195130
+exl-id: 61a02beb-7869-408b-8024-31e8b46f9f7a
+source-git-commit: 32c8aba7f65e8eb72f52c532a623df52d1473ffd
 workflow-type: tm+mt
 source-wordcount: '1075'
 ht-degree: 0%
 
 ---
-
 
 # Självstudiekurser för tillgångshantering
 
@@ -24,7 +24,7 @@ Få enkelt tillgång till och återanvänd miljontals resurser från en enda mol
 
 >[!TIP]
 >
->Vårt team av produktexperter på Adobe har sammanställt en samling självstudiekurser för integrering av viktiga användningsexempel i innehållsleveranskedjan. Om du använder mer än en lösning, lär dig det bästa sättet att integrera dem!  Kolla in [Självstudiekurser för integrering av innehållsleverantörer](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/content-supply-chain.html?lang=en).
+>Vårt team av produktexperter på Adobe har sammanställt en samling självstudiekurser för integrering av viktiga användningsexempel i innehållsleveranskedjan. Om du använder mer än en lösning, lär dig det bästa sättet att integrera dem!  Ta en titt på [integreringsjälvstudiekurserna för innehållsleveranskedjan](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/content-supply-chain.html?lang=en).
 
 ## Rekommenderade kurser
 
@@ -33,15 +33,15 @@ Få enkelt tillgång till och återanvänd miljontals resurser från en enda mol
     <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
       <div class="card-image">
         <figure class="image x-is-16by9">
-          <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/bulk-import.html" title="[AEM Assets - Resursvy] Massimport - funktionsvideo" tabindex="-1">
-            <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3426857?format=jpeg" alt="[AEM Assets - Resursvy] Massimport - funktionsvideo">
+          <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/bulk-import.html" title="[AEM Assets - Assets-vy] Massimport - funktionsvideo" tabindex="-1">
+            <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3426857?format=jpeg" alt="[AEM Assets - Assets-vy] Massimport - funktionsvideo">
           </a>
         </figure>
       </div>
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/bulk-import.html" title="[AEM Assets - Resursvy] Massimport - funktionsvideo">[AEM Assets - Resursvy] Massimport - funktionsvideo</a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/bulk-import.html" title="[AEM Assets - Assets-vy] Massimport - funktionsvideo">[AEM Assets - Assets-vy] Massimport - funktionsvideo</a>
           </p>
           <p class="is-size-6">Lär dig hur du importerar många filer till AEM Assets med funktionen för massimport, där Dropbox fungerar som en exempelleverantör av molnlagring för en tydlig och lätthanterlig integrationsprocess.</p>
         </div>
@@ -63,7 +63,7 @@ Få enkelt tillgång till och återanvänd miljontals resurser från en enda mol
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/overview.html" title="[Asset Essentials][Workfront] Integrering med Assets Essentials och Workfront - Katalog">[Asset Essentials][Workfront] Integrering med Assets Essentials och Workfront - Katalog</a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/overview.html" title="[Asset Essentials][Workfront] Integrering med Assets Essentials och Workfront - Katalog">[Resursgrunder][Workfront] Assets Essentials- och Workfront-integrering - Katalog</a>
           </p>
           <p class="is-size-6">Lär dig hur du integrerar Workfront och Assets Essentials.</p>
         </div>
@@ -85,7 +85,7 @@ Få enkelt tillgång till och återanvänd miljontals resurser från en enda mol
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-express-aem-assets-add-on.html" title="Integrering av [AEM Assets] Adobe Express - funktionsvideo">Integrering av [AEM Assets] Adobe Express - funktionsvideo</a>
+            Integrering av Adobe Expressen <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-express-aem-assets-add-on.html" title="Integrering av [AEM Assets] Adobe Express - funktionsvideo">[AEM Assets] - funktionsvideo</a>
           </p>
           <p class="is-size-6">Lär er hur ni optimerar innehållsleveranskedjorna med AEM Assets och Adobe Express, vilket förbättrar produktiviteten och tillgängligheten för alla teammedlemmar.</p>
         </div>
@@ -107,7 +107,7 @@ Få enkelt tillgång till och återanvänd miljontals resurser från en enda mol
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/multi-channel-marketing-content.html" title="[Adobe Express] Ge marknadsföringsteamen möjlighet att skapa flerkanalsinnehåll - video med funktioner">[Adobe Express] Ge marknadsföringsteamen möjlighet att skapa flerkanalsinnehåll - video med funktioner</a>
+            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/multi-channel-marketing-content.html" title="[Adobe Express] Ge marknadsföringsteamen möjlighet att skapa flerkanalsinnehåll - video med funktioner">[Adobe Express] Ge marknadsföringsteamen möjlighet att skapa flerkanalsinnehåll - funktionsvideo</a>
           </p>
           <p class="is-size-6">Läs om hur marknadsföringsteamen kan skapa unikt innehåll för att locka tittare till onlineevent. I det här arbetsflödet startar en B2B-marknadsförare ett nytt projekt i Adobe Express med hjälp av en mall från deras varumärkespaket och bibliotek. B2B Marketer skapar variationer för olika sociala kanaler och webbkanaler och delar innehållet på sociala medier och videovärdsplattformar.</p>
         </div>
@@ -129,7 +129,7 @@ Få enkelt tillgång till och återanvänd miljontals resurser från en enda mol
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/basics.html" title="[AEM Assets] Workfront Enhanced Integration Basics - Feature Video">[AEM Assets] Workfront Enhanced Integration Basics - Feature Video</a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/basics.html" title="[AEM Assets] Workfront Enhanced Integration Basics - Feature Video">[AEM Assets] Workfront Enhanced Integration Basics - funktionsvideo</a>
           </p>
           <p class="is-size-6">Lär dig grunderna i Adobe Workfront och Experience Manager Assets Förbättrad integrering, inklusive hur du länkar resurser och mappar, definierar metadatamappningar, skickar resurser till AEM, versionsobjekt och publicerar resurser automatiskt.</p>
         </div>
@@ -151,7 +151,7 @@ Få enkelt tillgång till och återanvänd miljontals resurser från en enda mol
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-asset-link.html" title="[AEM Assets] AEM och Adobe Asset Link Creative Workflow - Value Video">[AEM Assets] AEM och Adobe Asset Link Creative Workflow - Value Video</a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-asset-link.html" title="[AEM Assets] AEM och Adobe Asset Link Creative Workflow - Value Video">[AEM Assets] AEM och Adobe Asset Link Creative Workflow - Value Video </a>
           </p>
           <p class="is-size-6">Video som visar ett kreativt arbetsflöde för en användare som använder AAL och AAM</p>
         </div>
@@ -165,15 +165,15 @@ Få enkelt tillgång till och återanvänd miljontals resurser från en enda mol
     <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
       <div class="card-image">
         <figure class="image x-is-16by9">
-          <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html" title="[AJO] Skapa innehåll med e-postdesignern - funktionsvideo" tabindex="-1">
-            <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/334150?format=jpeg" alt="[AJO] Skapa innehåll med e-postdesignern - funktionsvideo">
+          <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html" title="[AJO] Skapa innehåll med e-post-Designer - funktionsvideo" tabindex="-1">
+            <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/334150?format=jpeg" alt="[AJO] Skapa innehåll med e-post-Designer - funktionsvideo">
           </a>
         </figure>
       </div>
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html" title="[AJO] Skapa innehåll med e-postdesignern - funktionsvideo">[AJO] Skapa innehåll med e-postdesignern - funktionsvideo</a>
+            <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html" title="[AJO] Skapa innehåll med e-post-Designer - funktionsvideo">[AJO] Skapa innehåll med e-post-Designer - funktionsvideo</a>
           </p>
           <p class="is-size-6">Lär dig hur du skapar e-postmeddelanden från grunden. Lär dig hur du använder resurser från AEM Assets Essentials-biblioteket, redigerar responsiv e-postdesign och skapar e-postmeddelanden från mallar.</p>
         </div>
@@ -195,7 +195,7 @@ Få enkelt tillgång till och återanvänd miljontals resurser från en enda mol
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/getting-started.html" title="[Asset Essentials] Komma igång med Assets Essentials - funktionsvideo">[Asset Essentials] Komma igång med Assets Essentials - funktionsvideo</a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/getting-started.html" title="[Asset Essentials] Komma igång med Assets Essentials - funktionsvideo">[Resursbehov] Komma igång med Assets Essentials - funktionsvideo</a>
           </p>
           <p class="is-size-6">Se hur Assets Essentials har ett intuitivt och användarvänligt användargränssnitt som gör det enkelt att hitta och komma ihåg resurser och relaterad information.</p>
         </div>
@@ -217,7 +217,7 @@ Få enkelt tillgång till och återanvänd miljontals resurser från en enda mol
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/content-automation/overview.html" title="[AEM Assets] Content Automation - Value Video">[AEM Assets] Content Automation - Value Video</a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/content-automation/overview.html" title="[AEM Assets] Content Automation - Value Video">[AEM Assets] Innehållsautomatisering - värdevideo</a>
           </p>
           <p class="is-size-6">En översikt lägger in Photoshop- och Lightroom-funktioner med Adobe Experience Manager Assets Content Automation.</p>
         </div>
@@ -261,7 +261,7 @@ Få enkelt tillgång till och återanvänd miljontals resurser från en enda mol
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/authoring/navigation.html" title="[Assets] Navigation - Feature Video">[Assets] Navigation - Feature Video</a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/authoring/navigation.html" title="[Assets] Navigation - Feature Video">[Assets] Navigering - funktionsvideo</a>
           </p>
           <p class="is-size-6">Grunderna i navigering i AEM Assets.</p>
         </div>
@@ -297,17 +297,17 @@ Få enkelt tillgång till och återanvänd miljontals resurser från en enda mol
     <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
       <div class="card-image">
         <figure class="image x-is-16by9">
-          <a href="https://docs.adobe.com/content/help/en/experience-manager-learn/assets/search-and-discovery/search.html" title="[Assets] Search - Feature Video" tabindex="-1">
-            <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/32054?format=jpeg" alt="[Assets] Search - Feature Video">
+          <a href="https://docs.adobe.com/content/help/en/experience-manager-learn/assets/search-and-discovery/search.html" title="[Assets] Sök - funktionsvideo" tabindex="-1">
+            <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/32054?format=jpeg" alt="[Assets] Sök - funktionsvideo">
           </a>
         </figure>
       </div>
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://docs.adobe.com/content/help/en/experience-manager-learn/assets/search-and-discovery/search.html" title="[Assets] Search - Feature Video">[Assets] Search - Feature Video</a>
+            <a href="https://docs.adobe.com/content/help/en/experience-manager-learn/assets/search-and-discovery/search.html" title="[Assets] Sök - funktionsvideo">[Assets] Sök - funktionsvideo</a>
           </p>
-          <p class="is-size-6">Lär dig använda AEM Omnissearch för att snabbt hitta resurser.</p>
+          <p class="is-size-6">Lär dig hur du använder AEM för att snabbt hitta resurser.</p>
         </div>
         <a href="https://docs.adobe.com/content/help/en/experience-manager-learn/assets/search-and-discovery/search.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
           <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Läs mer</span>
@@ -319,15 +319,15 @@ Få enkelt tillgång till och återanvänd miljontals resurser från en enda mol
     <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
       <div class="card-image">
         <figure class="image x-is-16by9">
-          <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/sharing/download.html" title="[Assets] Download - Feature Video" tabindex="-1">
-            <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/35090?format=jpeg" alt="[Assets] Download - Feature Video">
+          <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/sharing/download.html" title="[Assets] Ladda ned - funktionsvideo" tabindex="-1">
+            <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/35090?format=jpeg" alt="[Assets] Ladda ned - funktionsvideo">
           </a>
         </figure>
       </div>
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/sharing/download.html" title="[Assets] Download - Feature Video">[Assets] Download - Feature Video</a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/sharing/download.html" title="[Assets] Ladda ned - funktionsvideo">[Assets] Hämta - funktionsvideo</a>
           </p>
           <p class="is-size-6">Lär dig hur du hämtar resurser och deras återgivningar till din lokala dator för användning och delning.</p>
         </div>
@@ -349,7 +349,7 @@ Få enkelt tillgång till och återanvänd miljontals resurser från en enda mol
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/aem-desktop-app.html" title="[Assets] AEM Desktop App 2.0 - Funktionsvideo">[Assets] AEM Desktop App 2.0 - Funktionsvideo</a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/aem-desktop-app.html" title="[Assets] AEM Desktop App 2.0 - Funktionsvideo">[Assets] AEM skrivbordsapp 2.0 - funktionsvideo</a>
           </p>
           <p class="is-size-6">Använd AEM datorprogram för att förenkla åtkomsten till alla resurser som hanteras i AEM på datorn, för alla program och filformat.</p>
         </div>
@@ -371,7 +371,7 @@ Få enkelt tillgång till och återanvänd miljontals resurser från en enda mol
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/images/smart-crop-feature-video-use.html" title="[Assets] DM Smart Image Crop - Feature Video ">[Assets] DM Smart Image Crop - Feature Video </a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/images/smart-crop-feature-video-use.html" title="[Assets] DM Smart Image Crop - Feature Video ">[Assets] DM Smart Image Crop - funktionsvideo </a>
           </p>
           <p class="is-size-6">Smart Crop använder Adobe Sensei för att eliminera tidskrävande och kostsamma beskärningsåtgärder för responsiv design.</p>
         </div>
@@ -385,17 +385,17 @@ Få enkelt tillgång till och återanvänd miljontals resurser från en enda mol
     <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
       <div class="card-image">
         <figure class="image x-is-16by9">
-          <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/translation/source-file-translation-feature-video-use" title="[Resurser] Översättning av resurskällfil - funktionsvideo" tabindex="-1">
-            <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/18331?format=jpeg" alt="[Resurser] Översättning av resurskällfil - funktionsvideo">
+          <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/translation/source-file-translation-feature-video-use" title="[Assets] Source filöversättning - funktionsvideo" tabindex="-1">
+            <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/18331?format=jpeg" alt="[Assets] Source filöversättning - funktionsvideo">
           </a>
         </figure>
       </div>
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/translation/source-file-translation-feature-video-use" title="[Resurser] Översättning av resurskällfil - funktionsvideo">[Resurser] Översättning av resurskällfil - funktionsvideo</a>
+            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/translation/source-file-translation-feature-video-use" title="[Assets] Source filöversättning - funktionsvideo">[Assets] Source filöversättning - funktionsvideo</a>
           </p>
-          <p class="is-size-6">Med Adobe Experience Manager (AEM) Assets kan du identifiera resurser som delar gemensamma attribut och markera dem som relaterade med den nya funktionen Relaterade resurser.</p>
+          <p class="is-size-6">Med Adobe Experience Manager (AEM) Assets kan du identifiera resurser som delar gemensamma attribut och markera dem som relaterade med den nya funktionen Relaterad Assets.</p>
         </div>
         <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/translation/source-file-translation-feature-video-use" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
           <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Läs mer</span>
@@ -407,5 +407,5 @@ Få enkelt tillgång till och återanvänd miljontals resurser från en enda mol
 
 ## Ytterligare resurser
 
-* [Experience League Events](https://experienceleague.adobe.com/events/)
-* [Adobe i innehållsförsörjningskedjan](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)
+* [Experience League-händelser](https://experienceleague.adobe.com/events/)
+* [Adobe i innehållsleveranskedjan](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)

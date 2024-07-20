@@ -10,13 +10,13 @@ level: Beginner
 last-substantial-update: 2023-11-16T00:00:00Z
 jira: KT-14156
 hidefromtoc: true
-source-git-commit: b2f5670ac44b0cb4a59d3b685e6369e3b7e6db11
+exl-id: a72efe7e-e7ff-4845-9242-f038f10bb805
+source-git-commit: 32c8aba7f65e8eb72f52c532a623df52d1473ffd
 workflow-type: tm+mt
 source-wordcount: '810'
 ht-degree: 0%
 
 ---
-
 
 # Marknadsföringsflexibilitet: Ge icke-kreativa möjlighet att skala
 
@@ -58,12 +58,12 @@ De Adobe-lösningar som används för smidigare marknadsföring:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/images/smart-crop-feature-video-use.html" title="Använda Smart Crop med AEM Assets Dynamic Media">Använda Smart Crop med AEM Assets Dynamic Media</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/images/smart-crop-feature-video-use.html" title="Använda Smart Crop med AEM Assets Dynamic Media">Använda smart beskärning med AEM Assets Dynamic Media</a>
           </p>
           <p class="is-size-6"><em>Smart Crop använder Adobe Sensei för att eliminera tidskrävande och kostsamma beskärningsåtgärder för responsiv design.</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/images/smart-crop-feature-video-use.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Se videon</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Se videon </span>
       </a>
     </div>
   </div>
@@ -79,12 +79,12 @@ De Adobe-lösningar som används för smidigare marknadsföring:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-social-posters.html" title="Skapa affischer för sociala medier med Firefly">Skapa affischer för sociala medier med Firefly</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-social-posters.html" title="Skapa affischer för sociala medier med Firefly">Skapa sociala affischer med Firefly</a>
           </p>
           <p class="is-size-6"><em>Lär dig hur du använder Text to Image från Adobe Firefly i Adobe Express för att skapa en marknadsföringskampanj för sociala medier. I den här självstudiekursen används den nya Adobe Expressen.</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-social-posters.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Se videon</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Se videon </span>
       </a>
     </div>
   </div>
@@ -100,12 +100,12 @@ De Adobe-lösningar som används för smidigare marknadsföring:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-webinar-poster.html" title="Skapa webbinarier med Firefly">Skapa webbinarier med Firefly</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-webinar-poster.html" title="Skapa webbinarier med Firefly">Skapa webbinarium med Firefly</a>
           </p>
           <p class="is-size-6"><em>Lär dig hur du använder Text to Image från Adobe Firefly i Adobe Express för att skapa en webbinariaffisch för en virtual reality-händelse. I den här självstudiekursen används den nya Adobe Expressen.</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-webinar-poster.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Se videon</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Se videon </span>
       </a>
     </div>
   </div>
@@ -121,12 +121,12 @@ De Adobe-lösningar som används för smidigare marknadsföring:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-blog-graphics.html" title="Kör enkelt sociala kampanjer">Kör enkelt sociala kampanjer</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-blog-graphics.html" title="Kör enkelt sociala kampanjer">Kör sociala kampanjer enkelt</a>
           </p>
           <p class="is-size-6"><em>Lär dig hur du använder Text to Image från Adobe Firefly för att skapa unikt grafiskt innehåll för webbkampanjer, bloggkampanjer och sociala kampanjer. I den här självstudiekursen används den nya Adobe Expressen.</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-blog-graphics.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Se videon</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Se videon </span>
       </a>
     </div>
   </div>
@@ -142,12 +142,12 @@ De Adobe-lösningar som används för smidigare marknadsföring:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/create-on-boarding.html" title="Skapa rekryterings- och introduktionsinnehåll med Firefly">Skapa rekryterings- och introduktionsinnehåll med Firefly</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/create-on-boarding.html" title="Skapa rekryterings- och introduktionsinnehåll med Firefly">Skapa innehåll för rekrytering och introduktion med Firefly</a>
           </p>
           <p class="is-size-6"><em>Lär dig hur du använder Text to Image från Adobe Firefly i Adobe Express för att skapa unik grafik för rekrytering av medarbetare och startmaterial.</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/create-on-boarding.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Se videon</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Se videon </span>
       </a>
     </div>
   </div>
@@ -163,12 +163,12 @@ De Adobe-lösningar som används för smidigare marknadsföring:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-local-marketing.html" title="Skapa flygblad för marknadsföringskampanjer med Firefly">Skapa flygblad för marknadsföringskampanjer med Firefly</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-local-marketing.html" title="Skapa flygblad för marknadsföringskampanjer med Firefly">Skapa flygblad för marknadsföringskampanj med Firefly</a>
           </p>
           <p class="is-size-6"><em>Lär dig hur du använder Text to Image från Adobe Firefly i Adobe Express för att skapa lokaliserat innehåll från en global marknadsföringskampanj på hotell. </em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-local-marketing.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Se videon</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Se videon </span>
       </a>
     </div>
   </div>
@@ -184,12 +184,12 @@ De Adobe-lösningar som används för smidigare marknadsföring:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/localized-marketing-content.html" title="Möjliggör för geografiskt utspridda team att lokalisera innehåll">Möjliggör för geografiskt utspridda team att lokalisera innehåll</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/localized-marketing-content.html" title="Möjliggör för geografiskt utspridda team att lokalisera innehåll">Låt utspridda team lokalisera innehåll</a>
           </p>
           <p class="is-size-6"><em>Läs om hur geografiskt utspridda marknadsföringsteam enkelt kan anpassa innehåll till sin region för lokala marknadsföringskampanjer. </em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/localized-marketing-content.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Se videon</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Se videon </span>
       </a>
     </div>
   </div>
@@ -205,12 +205,12 @@ De Adobe-lösningar som används för smidigare marknadsföring:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/compelling-merchandise.html" title="Skapa övertygande material för varuexponering">Skapa övertygande material för varuexponering</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/compelling-merchandise.html" title="Skapa övertygande material för varuexponering">Skapa övertygande marknadsföringsmaterial</a>
           </p>
           <p class="is-size-6"><em>Läs om hur ett e-handelsteam enkelt kan skapa övertygande bilder för en ny uppsättning lager i sin onlinebutik.</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/compelling-merchandise.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Se videon</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Se videon </span>
       </a>
     </div>
   </div>
@@ -231,7 +231,7 @@ De Adobe-lösningar som används för smidigare marknadsföring:
           <p class="is-size-6"><em>Läs om hur marknadsföringsteamen kan skapa unikt innehåll för att locka tittare till onlineevent.</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/multi-channel-marketing-content.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Se videon</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Se videon </span>
       </a>
     </div>
   </div>
@@ -247,12 +247,12 @@ De Adobe-lösningar som används för smidigare marknadsföring:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/stylize-this-PDF.html" title="Stilisera PDF">Stilisera PDF</a>
+              <a href="https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/stylize-this-PDF.html" title="Stilisera PDF">Stilisera den här PDF</a>
           </p>
           <p class="is-size-6"><em>Lär dig hur du skapar proffsiga PDF med de inbyggda lättanvända designverktygen i Adobe Express. I den här videosjälvstudien används den nya arbetsytan.</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/stylize-this-PDF.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Se videon</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Se videon </span>
       </a>
     </div>
   </div>
@@ -268,12 +268,12 @@ De Adobe-lösningar som används för smidigare marknadsföring:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/content-automation/overview.html" title="Översikt över Content Automation med Creative Cloud-tjänster">Översikt över Content Automation med Creative Cloud-tjänster</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/content-automation/overview.html" title="Översikt över Content Automation med Creative Cloud-tjänster">Översikt över innehållsautomatisering med Creative Cloud-tjänster</a>
           </p>
           <p class="is-size-6"><em>En översikt lägger in Photoshop- och Lightroom-funktioner med Adobe Experience Manager Assets Content Automation.</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/content-automation/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Se videon</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Se videon </span>
       </a>
     </div>
   </div>
@@ -289,12 +289,12 @@ De Adobe-lösningar som används för smidigare marknadsföring:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-express.html" title="Integrering av Adobe Expresser">Integrering av Adobe Expresser</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-express.html" title="Integrering av Adobe Expresser">Integrering av Adobe Express</a>
           </p>
           <p class="is-size-6"><em>Lär er hur ni optimerar innehållsleveranskedjorna med AEM Assets och Adobe Express, vilket förbättrar produktiviteten och tillgängligheten för alla teammedlemmar.</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-express.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Se videon</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Se videon </span>
       </a>
     </div>
   </div>
@@ -469,5 +469,5 @@ De Adobe-lösningar som används för smidigare marknadsföring:
 
 ## Ytterligare resurser
 
-* [Experience League Events](https://experienceleague.adobe.com/events/)
-* [Adobe i innehållsförsörjningskedjan](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)
+* [Experience League-händelser](https://experienceleague.adobe.com/events/)
+* [Adobe i innehållsleveranskedjan](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)

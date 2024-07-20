@@ -10,13 +10,13 @@ level: Beginner
 last-substantial-update: 2023-11-16T00:00:00Z
 jira: KT-14155
 hidefromtoc: true
-source-git-commit: 2ad7a5cfde323b7a6f726f98ec4c5eafd7cd4d86
+exl-id: e66480f9-c7af-4b15-afdf-dd89a792af20
+source-git-commit: 32c8aba7f65e8eb72f52c532a623df52d1473ffd
 workflow-type: tm+mt
 source-wordcount: '496'
 ht-degree: 0%
 
 ---
-
 
 # Kreativ produktivitet: Överlägsna kreativa team
 
@@ -38,7 +38,7 @@ Adobe-lösningar för kreativ produktivitet:
       </td>
       <td style="align: center">
         <p style="margin: 0"><img alt="Frame.io" src="/help/assets/frameio-logo.png"></p>
-        <strong>Ram.io</strong>
+        <strong>Frame.io</strong>
       </td>
       <td style="align: center">
         <p style="margin: 0"><img alt="Adobe Express" src="/help/assets/adobe-express-logo.png"></p>
@@ -58,8 +58,8 @@ Adobe-lösningar för kreativ produktivitet:
         </a>
         <div>
           <a href="https://experienceleague.adobe.com/docs/courses/using/ExperienceManager-A-1-2020.1.aem" target="_blank">
-        <strong>Konfigurera administrativ åtkomst till Experience Manager</strong></a>
-        <p class="is-size-7 recs-limit-description">Se hur användare autentiserar med Adobe IMS för att AEM as a Cloud Service, och hur Adobe IMS-användare, användargrupper och produktprofiler används för att styra åtkomsten till AEM och dess funktioner.</p>
+        <strong> Konfigurera administrativ åtkomst till Experience Manager </strong></a>
+        <p class="is-size-7 recs-limit-description">Se hur användare autentiserar med Adobe IMS för AEM as a Cloud Service och hur Adobe IMS-användare, användargrupper och produktprofiler används för att styra åtkomsten till AEM samt funktioner.</p>
         <p><a href="https://experienceleague.adobe.com/docs/courses/using/ExperienceManager-A-1-2020.1.aem" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Läs mer</span></a></p>
         </div>
       </td>
@@ -85,7 +85,7 @@ Adobe-lösningar för kreativ produktivitet:
           <p class="is-size-6"><em>Lär dig hur du integrerar Assets Essentials med Adobe Creative Cloud Libraries.</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/creative-cloud.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Se videon</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Se videon </span>
       </a>
     </div>
   </div>
@@ -106,7 +106,7 @@ Adobe-lösningar för kreativ produktivitet:
           <p class="is-size-6"><em>Använd AEM datorprogram för att förenkla åtkomsten till alla resurser som hanteras i AEM på datorn, för alla program och filformat.</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/aem-desktop-app.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Se videon</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Se videon </span>
       </a>
     </div>
   </div>
@@ -127,7 +127,7 @@ Adobe-lösningar för kreativ produktivitet:
           <p class="is-size-6"><em>Tillägget Adobe Asset Link för Adobe Creative Cloud for enterprise ger möjlighet att söka efter och bläddra bland, sortera, förhandsgranska, ladda upp material, checka ut, ändra, checka in och visa metadata för AEM resurser i Creative Cloud-program.</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-asset-link.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Se videon</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Se videon </span>
       </a>
     </div>
   </div>
@@ -143,12 +143,12 @@ Adobe-lösningar för kreativ produktivitet:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-express.html" title="Integrering av Adobe Expresser">Integrering av Adobe Expresser</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-express.html" title="Integrering av Adobe Expresser">Integrering av Adobe Express</a>
           </p>
           <p class="is-size-6"><em>Lär er hur ni optimerar innehållsleveranskedjorna med AEM Assets och Adobe Express, vilket förbättrar produktiviteten och tillgängligheten för alla teammedlemmar.</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-express.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Se videon</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Se videon </span>
       </a>
     </div>
   </div>
@@ -164,12 +164,12 @@ Adobe-lösningar för kreativ produktivitet:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/overview.html" title="Videor om Content Fragments Console">Videor om Content Fragments Console</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/overview.html" title="Videor om Content Fragments Console">Videoklipp i konsolen för innehållsfragment</a>
           </p>
-          <p class="is-size-6"><em>En samling videor som hjälper dig att förstå och använda AEM Content Fragment-konsolen och -redigeraren.</em></p>
+          <p class="is-size-6"><em>En samling videor som hjälper dig att förstå och använda AEM Content Fragment-konsol och -redigerare.</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Se videon</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Se videon </span>
       </a>
     </div>
   </div>
@@ -185,12 +185,12 @@ Adobe-lösningar för kreativ produktivitet:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/page-authoring-overview-feature-video-use.html" title="Skapa en sida">Skapa en sida</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/page-authoring-overview-feature-video-use.html" title="Skapa en sida">Redigerar en sida</a>
           </p>
           <p class="is-size-6"><em>Lär dig hur du skapar en sida i Adobe Experience Manager Sites med hjälp av Site Editors användargränssnitt.</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/page-authoring-overview-feature-video-use.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Se videon</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Se videon </span>
       </a>
     </div>
   </div>
@@ -206,12 +206,12 @@ Adobe-lösningar för kreativ produktivitet:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/adobe-asset-link/setup.html" title="Inställning av Adobe Asset Link">Inställning av Adobe Asset Link</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/adobe-asset-link/setup.html" title="Inställning av Adobe Asset Link">Inställning av Adobe-resurslänk</a>
           </p>
-          <p class="is-size-6"><em>Lär dig hur du konfigurerar Adobe Asset Link för AEM as a Cloud Service, konfigurerar användarberättiganden och AEM as a Cloud Service samt hur du installerar och använder Adobe Asset Link.</em></p>
+          <p class="is-size-6"><em>Lär dig hur du konfigurerar Adobe Asset Link för AEM as a Cloud Service, konfigurerar användarrättigheter och AEM as a Cloud Service samt hur du installerar och använder Adobe Asset Link.</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/adobe-asset-link/setup.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Se videon</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Se videon </span>
       </a>
     </div>
   </div>

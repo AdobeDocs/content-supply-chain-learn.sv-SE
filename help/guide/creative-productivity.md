@@ -10,13 +10,13 @@ level: Beginner
 last-substantial-update: 2023-11-16T00:00:00Z
 jira: KT-14155
 hidefromtoc: true
-source-git-commit: b2f5670ac44b0cb4a59d3b685e6369e3b7e6db11
+exl-id: b856f8a3-c353-4f10-8d04-5758ec59b611
+source-git-commit: 32c8aba7f65e8eb72f52c532a623df52d1473ffd
 workflow-type: tm+mt
 source-wordcount: '452'
 ht-degree: 0%
 
 ---
-
 
 # Kreativ produktivitet: Överlägsna kreativa team
 
@@ -38,7 +38,7 @@ Adobe-lösningar för kreativ produktivitet:
       </td>
       <td style="align: center">
         <p style="margin: 0"><img alt="Frame.io" src="/help/assets/frameio-logo.png" style="width: 42px;height:  42px;"></p>
-        <strong>Ram.io</strong>
+        <strong>Frame.io</strong>
       </td>
       <td style="align: center">
         <p style="margin: 0"><img alt="Adobe Express" src="/help/assets/adobe-express-logo.png" style="width: 42px;height:42px;"></p>
@@ -61,12 +61,12 @@ Adobe-lösningar för kreativ produktivitet:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/enable-creative-efficiency.html" title="Effektivare kreativitet">Effektivare kreativitet</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/enable-creative-efficiency.html" title="Effektivare kreativitet">Aktivera kreativ effektivitet</a>
           </p>
           <p class="is-size-6"><em>Lär dig hur du snabbar upp framtagningen av innehåll med hjälp av de generativa AI-baserade verktygen i Adobe Photoshop och Illustrator.</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/enable-creative-efficiency.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Se videon</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Se videon </span>
       </a>
     </div>
   </div>
@@ -87,7 +87,7 @@ Adobe-lösningar för kreativ produktivitet:
           <p class="is-size-6"><em>Läs om hur du använder Generative Recolor från Adobe Firefly i Adobe Illustrator för att snabbt färga om vektorbilder för anpassade tebox-rutor på hotell.</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-recolor.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Se videon</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Se videon </span>
       </a>
     </div>
   </div>
@@ -108,7 +108,7 @@ Adobe-lösningar för kreativ produktivitet:
           <p class="is-size-6"><em>Lär dig använda texteffekter från Adobe Firefly för att skapa unika och inspirerande rubrikbilder för ett nyhetsbrev.</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/text-effects.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Se videon</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Se videon </span>
       </a>
     </div>
   </div>
@@ -129,7 +129,7 @@ Adobe-lösningar för kreativ produktivitet:
           <p class="is-size-6"><em>Lär dig hur du använder Generative Fill från Adobe Firefly i Adobe Photoshop för att snabba upp framtagningen av webbannonsbanderoller.</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/web-banner-ad.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Se videon</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Se videon </span>
       </a>
     </div>
   </div>
@@ -145,12 +145,12 @@ Adobe-lösningar för kreativ produktivitet:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/jumpstart-ideation.html" title="Kom snabbt igång med kreativa idéer">Kom snabbt igång med kreativa idéer</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/jumpstart-ideation.html" title="Kom snabbt igång med kreativa idéer">Kom igång snabbt med kreativa idéer</a>
           </p>
           <p class="is-size-6"><em>Lär dig hur du snabbt kommer igång med att utveckla kreativt innehåll för en marknadsföringskampanj. </em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/jumpstart-ideation.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Se videon</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Se videon </span>
       </a>
     </div>
   </div>
@@ -166,12 +166,12 @@ Adobe-lösningar för kreativ produktivitet:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-fill.html" title="Generativ ifyllning i Photoshop">Generativ ifyllning i Photoshop</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-fill.html" title="Generativ ifyllning i Photoshop">Generativ fyllning i Photoshop</a>
           </p>
           <p class="is-size-6"><em>Lär dig hur du använder Generative Fill från Adobe Firefly i Adobe Photoshop för att göra det enklare att skapa ett koncept för en reseannons.</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-fill.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Se videon</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Se videon </span>
       </a>
     </div>
   </div>
@@ -179,20 +179,20 @@ Adobe-lösningar för kreativ produktivitet:
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
-        <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/cc-libraries.html" title="Använda CC Libraries" tabindex="-1">
-          <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420227?format=jpeg" alt="Använda CC Libraries">
+        <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/cc-libraries.html" title="Använd CC Libraries" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420227?format=jpeg" alt="Använd CC Libraries">
         </a>
       </figure>
     </div>
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/cc-libraries.html" title="Använda CC Libraries">Använda CC Libraries</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/cc-libraries.html" title="Använd CC Libraries">Använd CC Libraries</a>
           </p>
           <p class="is-size-6"><em>Lär dig hur du delar CC Library-resurser med ditt team.</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/cc-libraries.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Se videon</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Se videon </span>
       </a>
     </div>
   </div>
@@ -432,5 +432,5 @@ Adobe-lösningar för kreativ produktivitet:
 
 ## Ytterligare resurser
 
-* [Experience League Events](https://experienceleague.adobe.com/events/)
-* [Adobe i innehållsförsörjningskedjan](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)
+* [Experience League-händelser](https://experienceleague.adobe.com/events/)
+* [Adobe i innehållsleveranskedjan](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)

@@ -30,7 +30,7 @@ De Adobe-lösningar som används för aktivering och analys av innehåll:
 
 >[!TIP]
 >
->Vårt team av produktexperter på Adobe har sammanställt en samling självstudiekurser för integrering av viktiga användningsexempel i innehållsleveranskedjan. Om du använder mer än en lösning, lär dig det bästa sättet att integrera dem!  Kolla in [Självstudiekurser för integrering av innehållsleverantörer](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/content-supply-chain.html?lang=en).
+>Vårt team av produktexperter på Adobe har sammanställt en samling självstudiekurser för integrering av viktiga användningsexempel i innehållsleveranskedjan. Om du använder mer än en lösning, lär dig det bästa sättet att integrera dem!  Ta en titt på [integreringsjälvstudiekurserna för innehållsleveranskedjan](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/content-supply-chain.html?lang=en).
 
 ## Självstudiekurser
 
@@ -49,7 +49,7 @@ De Adobe-lösningar som används för aktivering och analys av innehåll:
           <p class="headline is-size-6 has-text-weight-bold">
             <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/overview.html" title="Översikt över konsolen/redigeraren för innehållsfragment">Översikt över konsolen/redigeraren för innehållsfragment</a>
           </p>
-          <p class="is-size-6">En samling videor som hjälper dig att förstå och använda AEM Content Fragment-konsolen och -redigeraren.</p>
+          <p class="is-size-6">En samling videor som hjälper dig att förstå och använda AEM Content Fragment-konsol och -redigerare.</p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
           <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Läs mer</span>
@@ -149,15 +149,15 @@ De Adobe-lösningar som används för aktivering och analys av innehåll:
     <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
       <div class="card-image">
         <figure class="image x-is-16by9">
-          <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html" title="Skapa innehåll med e-postdesignern" tabindex="-1">
-            <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/334150?format=jpeg" alt="Skapa innehåll med e-postdesignern">
+          <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html" title="Skapa innehåll med e-post-Designer" tabindex="-1">
+            <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/334150?format=jpeg" alt="Skapa innehåll med e-post-Designer">
           </a>
         </figure>
       </div>
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html" title="Skapa innehåll med e-postdesignern">Skapa innehåll med e-postdesignern</a>
+            <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html" title="Skapa innehåll med e-post-Designer">Skapa innehåll med e-post-Designer</a>
           </p>
           <p class="is-size-6">Lär dig hur du skapar e-postmeddelanden från grunden. Lär dig hur du använder resurser från AEM Assets Essentials-biblioteket, redigerar responsiv e-postdesign och skapar e-postmeddelanden från mallar.&amp;†</p>
         </div>
@@ -179,7 +179,7 @@ De Adobe-lösningar som används för aktivering och analys av innehåll:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/site-template/overview.html" title="Översikt över att skapa webbplatser snabbt">Översikt över att skapa webbplatser snabbt</a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/site-template/overview.html" title="Översikt över att skapa webbplatser snabbt">Översikt över att skapa en snabbwebbplats</a>
           </p>
           <p class="is-size-6">Lär dig hur du använder en lågkodsmetod för att skapa din första webbplats i Adobe Experience Manager med hjälp av snabbmenyalternativet Skapa webbplats och en fördefinierad webbplatsmall. </p>
         </div>
@@ -215,15 +215,15 @@ De Adobe-lösningar som används för aktivering och analys av innehåll:
     <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
       <div class="card-image">
         <figure class="image x-is-16by9">
-          <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/integrations/target/personalization-web-page" title="Personalisering av fullständiga webbsidesupplevelser" tabindex="-1">
-            <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/6353-personalization-web-page.jpg" alt="Personalisering av fullständiga webbsidesupplevelser">
+          <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/integrations/target/personalization-web-page" title="Personalization of Full Web Page Experiences" tabindex="-1">
+            <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/6353-personalization-web-page.jpg" alt="Personalization of Full Web Page Experiences">
           </a>
         </figure>
       </div>
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/integrations/target/personalization-web-page" title="Personalisering av fullständiga webbsidesupplevelser">Personalisering av fullständiga webbsidesupplevelser</a>
+            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/integrations/target/personalization-web-page" title="Personalization of Full Web Page Experiences">Personalization of Full Web Page Experiences</a>
           </p>
           <p class="is-size-6">Lär dig hur du skapar en aktivitet som dirigerar om de webbsidor som finns på AEM till en ny sida med Adobe Target.</p>
         </div>
@@ -237,15 +237,15 @@ De Adobe-lösningar som används för aktivering och analys av innehåll:
     <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
       <div class="card-image">
         <figure class="image x-is-16by9">
-          <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/target/personalization-using-vec.html" title="Personalisering med Visual Experience Composer" tabindex="-1">
-            <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/6352-personalization-using-vec.jpg" alt="Personalisering med Visual Experience Composer">
+          <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/target/personalization-using-vec.html" title="Personalization med Visual Experience Composer" tabindex="-1">
+            <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/6352-personalization-using-vec.jpg" alt="Personalization med Visual Experience Composer">
           </a>
         </figure>
       </div>
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/target/personalization-using-vec.html" title="Personalisering med Visual Experience Composer">Personalisering med Visual Experience Composer</a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/target/personalization-using-vec.html" title="Personalization med Visual Experience Composer">Personalization med Visual Experience Composer</a>
           </p>
           <p class="is-size-6">Lär dig hur du skapar en A/B Test Target-aktivitet med Visual Experience Composer (VEC).</p>
         </div>
@@ -267,7 +267,7 @@ De Adobe-lösningar som används för aktivering och analys av innehåll:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/target/create-target-activity.html" title=" Skapa målaktivitet med Experience Fragment-erbjudanden"> Skapa målaktivitet med Experience Fragment-erbjudanden</a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/target/create-target-activity.html" title=" Skapa målaktivitet med Experience Fragment-erbjudanden"> Skapa målaktivitet med Experience Fragment-erbjudanden </a>
           </p>
           <p class="is-size-6">Lär dig hur du skapar och testar en Adobe Target-aktivitet med AEM Experience Fragment-erbjudanden.</p>
         </div>
@@ -313,7 +313,7 @@ De Adobe-lösningar som används för aktivering och analys av innehåll:
           <p class="headline is-size-6 has-text-weight-bold">
             <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/metadata/image-smart-tags.html" title="Smarta taggar för bilder med AEM Assets">Smarta taggar för bilder med AEM Assets</a>
           </p>
-          <p class="is-size-6">*Beskrivning:* Smarta taggar för bilder förbättrar sökfunktionerna AEM genom att automatiskt och intelligent lägga till metadatataggar till bildresurser baserat på bildens innehåll.</p>
+          <p class="is-size-6">*Beskrivning:* Smarta taggar för bilder ökar AEM sökfunktionerna genom att automatiskt och intelligent lägga till metadatataggar till bildresurser baserat på bildens innehåll.</p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/metadata/image-smart-tags.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
           <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Läs mer</span>
@@ -333,7 +333,7 @@ De Adobe-lösningar som används för aktivering och analys av innehåll:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search-boost.html" title="Förbättrade sökfunktioner">Förbättrade sökfunktioner</a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search-boost.html" title="Förbättrade sökfunktioner">Förbättrad sökökning</a>
           </p>
           <p class="is-size-6">Lär dig hur du lägger till nyckelord och fraser för att öka sökrelevansen för en resurs i Adobe Experience Manager.</p>
         </div>
@@ -347,5 +347,5 @@ De Adobe-lösningar som används för aktivering och analys av innehåll:
 
 ## Ytterligare resurser
 
-* [Experience League Events](https://experienceleague.adobe.com/events/)
-* [Adobe i innehållsförsörjningskedjan](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)
+* [Experience League-händelser](https://experienceleague.adobe.com/events/)
+* [Adobe i innehållsleveranskedjan](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)

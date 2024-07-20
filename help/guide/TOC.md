@@ -18,7 +18,7 @@ ht-degree: 2%
 + [Resurshantering](asset-management.md)
 + [Leverans och aktivering](delivery-and-activation.md)
 + [Rapportering och insikter](reporting-and-insights.md)
-+ dold {#hidden}
++ dolda {#hidden}
    + [Kreativ produktivitet](creative-productivity.md)
    + [Kreativ produktivitet med AEM Assets](creative-productivity-aemassets.md)
    + [Marknadsföringsflexibilitet](marketing-agility.md)
